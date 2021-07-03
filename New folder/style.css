@@ -1,0 +1,67 @@
+#wev{
+    color: aquamarine;
+    font-size: 25px;
+    background-color: darkgreen;
+}
+#batch{
+    color: darkorange;
+    font-size: 50px;
+    background-color: darkslategray;
+}
+#group{
+    font-size: 72px;
+    background-color: brown;
+    color: darkturquoise;
+}
+hr{
+    color: gold;
+    text-align: center;
+    width: 60%;
+    height: 25px;
+    background-color: mediumorchid;
+}
+.laltu{
+    background-color: gray;
+    color: greenyellow;
+}
+
+.faltu{
+    font-size: 50px;
+    background-color: hotpink;
+    color: indigo;
+}
+.blog{
+    background-color: purple;
+    color: skyblue;
+}
+.blog2{
+    background-color: rgb(6, 11, 99);
+    color: rgb(84, 85, 86);
+}
+.blog3{
+    background-color: rgb(93, 72, 4);
+    color: rgb(192, 212, 213);
+}
+.name{
+    color: yellow;
+    background-color: rgb(54, 33, 137);
+}
+
+.brd{
+    margin: 20px 50px 80px 120px;
+    border: 15px solid yellow;
+    border-radius: 15px;
+    padding: 20px 25px 50px 100px;
+}
+.brd1{
+    margin: 20px 50px 80px 120px;
+    border-radius: 15px;
+    border: 15px double yellow;
+    padding: 20px 25px 50px 100px;
+}
+.brd2{
+    margin: 20px 50px 80px 120px;
+    border: 15px double yellow;
+    border-radius: 15px;
+    padding: 20px 25px 50px 100px;
+}
